@@ -18,7 +18,7 @@
  
 <div> 
   <a href = "mailto:rpolicarpo31@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-policarpo-meireles-55b358296" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/Rodrigo-Policarpo/Rodrigo-Policarpo/blob/output/github-contribution-grid-snake.svg)
 </div>
